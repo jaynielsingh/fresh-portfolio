@@ -2,12 +2,13 @@ export default function Footer() {
   return (
     <footer className="footer footer-center bg-base-200 text-base-content rounded p-10">
       <nav className="grid grid-flow-col gap-4">
-        <a className="link link-hover">About us</a>
+        <a href="/about" className="link link-hover">About Me</a>
         <a className="link link-hover">Contact</a>
-        <a className="link link-hover">Jobs</a>
-        <a className="link link-hover">Press kit</a>
+        <a className="link link-hover">Photo Gallery</a>
+        <a className="link link-hover">Portfolio</a>
       </nav>
-      <nav>
+      {
+        /* <nav>
         <div className="grid grid-flow-col gap-4">
           <a>
             <svg
@@ -46,11 +47,20 @@ export default function Footer() {
             </svg>
           </a>
         </div>
-      </nav>
+      </nav> */
+      }
       <aside>
         <p>
           Copyright © {new Date().getFullYear()}{" "}
-          - All right reserved by ACME Industries Ltd
+          <a href="https://fresh.deno.dev">
+            <img
+            className='py-5'
+              width="197"
+              height="37"
+              src="https://fresh.deno.dev/fresh-badge-dark.svg"
+              alt="Made with Fresh"
+            />
+          </a>
         </p>
       </aside>
     </footer>
