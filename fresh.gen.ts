@@ -4,11 +4,17 @@
 
 import * as $_404 from "./routes/_404.tsx";
 import * as $_app from "./routes/_app.tsx";
+import * as $about from "./routes/about.tsx";
 import * as $api_joke from "./routes/api/joke.ts";
+import * as $contact from "./routes/contact.tsx";
+import * as $gallery from "./routes/gallery.tsx";
 import * as $greet_name_ from "./routes/greet/[name].tsx";
 import * as $index from "./routes/index.tsx";
+import * as $portfolio from "./routes/portfolio.tsx";
+import * as $ContactMe from "./islands/ContactMe.tsx";
 import * as $Counter from "./islands/Counter.tsx";
 import * as $Footer from "./islands/Footer.tsx";
+import * as $Gallery from "./islands/Gallery.tsx";
 import * as $Hero from "./islands/Hero.tsx";
 import * as $Navbar from "./islands/Navbar.tsx";
 import * as $Portfolio from "./islands/Portfolio.tsx";
@@ -18,13 +24,19 @@ const manifest = {
   routes: {
     "./routes/_404.tsx": $_404,
     "./routes/_app.tsx": $_app,
+    "./routes/about.tsx": $about,
     "./routes/api/joke.ts": $api_joke,
+    "./routes/contact.tsx": $contact,
+    "./routes/gallery.tsx": $gallery,
     "./routes/greet/[name].tsx": $greet_name_,
     "./routes/index.tsx": $index,
+    "./routes/portfolio.tsx": $portfolio,
   },
   islands: {
+    "./islands/ContactMe.tsx": $ContactMe,
     "./islands/Counter.tsx": $Counter,
     "./islands/Footer.tsx": $Footer,
+    "./islands/Gallery.tsx": $Gallery,
     "./islands/Hero.tsx": $Hero,
     "./islands/Navbar.tsx": $Navbar,
     "./islands/Portfolio.tsx": $Portfolio,

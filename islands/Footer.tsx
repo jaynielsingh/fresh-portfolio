@@ -1,11 +1,11 @@
 export default function Footer() {
   return (
-    <footer className="footer footer-center bg-base-200 text-base-content rounded p-10">
+    <footer className="footer footer-center bg-slate-900 text-base-content rounded p-10">
       <nav className="grid grid-flow-col gap-4">
         <a href="/about" className="link link-hover">About Me</a>
-        <a className="link link-hover">Contact</a>
-        <a className="link link-hover">Photo Gallery</a>
-        <a className="link link-hover">Portfolio</a>
+        <a href="/contact" className="link link-hover">Contact</a>
+        <a href="/gallery" className="link link-hover">Gallery</a>
+        <a href="/portfolio" className="link link-hover">Portfolio</a>
       </nav>
       {
         /* <nav>
@@ -54,7 +54,7 @@ export default function Footer() {
           Copyright © {new Date().getFullYear()}{" "}
           <a href="https://fresh.deno.dev">
             <img
-            className='py-5'
+              className="py-5"
               width="197"
               height="37"
               src="https://fresh.deno.dev/fresh-badge-dark.svg"

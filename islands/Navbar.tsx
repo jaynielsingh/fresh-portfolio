@@ -4,7 +4,7 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <nav class="bg-base-100 shadow-md">
+    <nav class="bg-slate-900 shadow-md">
       <div class="container mx-auto px-4 flex justify-between items-center h-16">
         {/* Logo */}
         <a href="/" class="text-xl font-bold text-primary">
@@ -38,6 +38,7 @@ export default function Navbar() {
           <a href="/" class="btn btn-ghost">Home</a>
           <a href="/about" class="btn btn-ghost">About</a>
           <a href="/portfolio" class="btn btn-ghost">Portfolio</a>
+          <a href='/gallery' class="btn btn-ghost">Gallery</a>
           <a href="/contact" class="btn btn-primary">Contact</a>
         </div>
       </div>
