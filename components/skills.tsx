@@ -10,10 +10,7 @@ export default function Skill() {
             ________________________________________
           </p>
           <p class=" leading-relaxed font-light text-xl mx-auto py-5">
-            These are the tools, technologies, and frameworks I’ve learned
-            through hands-on experience and continuous learning. Each skill
-            reflects my dedication to building functional, responsive, and
-            visually engaging web solutions:
+          These are the tools, technologies, and frameworks I’ve learned through hands-on experience and continuous learning. Each skill reflects my dedication to building functional, responsive, and visually engaging web solutions:
           </p>
         </header>
       </div>
@@ -23,7 +20,7 @@ export default function Skill() {
           <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
-                class="radial-progress bg-accent border-4 border-accent"
+                class="radial-progress bg-secondary border-4 border-accent"
                 style="--size:7rem; --value: 75"
               >
                 75%
@@ -40,7 +37,7 @@ export default function Skill() {
           <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
-                class="radial-progress bg-accent  border-4 border-accent"
+                class="radial-progress bg-secondary  border-4 border-accent"
                 style="--size:7rem; --value: 75"
               >
                 75%
@@ -57,7 +54,7 @@ export default function Skill() {
           <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
-                class="radial-progress bg-accent border-4 border-accent"
+                class="radial-progress bg-secondary border-4 border-accent"
                 style="--size:7rem; --value: 80"
               >
                 80%
@@ -74,7 +71,7 @@ export default function Skill() {
           <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
-                class="radial-progress bg-accent border-4 border-accent"
+                class="radial-progress bg-secondary border-4 border-accent"
                 style="--size:7rem; --value: 80"
               >
                 80%
@@ -91,7 +88,7 @@ export default function Skill() {
           <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
-                class="radial-progress bg-accent border-4 border-accent"
+                class="radial-progress bg-secondary border-4 border-accent"
                 style="--size:7rem; --value: 70"
               >
                 70%
@@ -108,7 +105,7 @@ export default function Skill() {
           <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
-                class="radial-progress bg-accent border-4 border-accent"
+                class="radial-progress bg-secondary border-4 border-accent"
                 style="--size:7rem; --value: 85"
               >
                 85%

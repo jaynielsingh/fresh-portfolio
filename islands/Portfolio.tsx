@@ -59,7 +59,7 @@ function classNames(...classes: string[]) {
 
 export default function Portfolio() {
   return (
-    <div className="bg-slate-950">
+    <div className="">
       <div className="mx-auto max-w-2xl px-4 py-24 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="text-3xl font-bold tracking-tight font-serif  sm:text-4xl">
