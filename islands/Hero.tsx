@@ -17,7 +17,7 @@ export default function Hero() {
           </p>
           <a
             href="/portfolio"
-            className="btn btn-primary hover:bg-accent animate-bounce hover:text-white capitalize"
+            className="btn btn-primary hover:bg-accent animate-pulse hover:text-white capitalize"
           >
             View my portfolio
           </a>
