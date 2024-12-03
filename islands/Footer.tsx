@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="footer footer-center bg-slate-900 text-base-content rounded p-10">
       <nav className="grid grid-flow-col gap-4">
-        <a href="/about" className="link link-hover">About Me</a>
+        <a href="/about" className="link link-hover">About</a>
         <a href="/contact" className="link link-hover">Contact</a>
         <a href="/gallery" className="link link-hover">Gallery</a>
         <a href="/portfolio" className="link link-hover">Portfolio</a>
