@@ -1,5 +1,3 @@
-
-
 const files = [
   {
     id: 1,

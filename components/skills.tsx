@@ -10,7 +10,10 @@ export default function Skill() {
             ________________________________________
           </p>
           <p class=" leading-relaxed font-light text-xl mx-auto py-5">
-          These are the tools, technologies, and frameworks I’ve learned through hands-on experience and continuous learning. Each skill reflects my dedication to building functional, responsive, and visually engaging web solutions:
+            These are the tools, technologies, and frameworks I’ve learned
+            through hands-on experience and continuous learning. Each skill
+            reflects my dedication to building functional, responsive, and
+            visually engaging web solutions:
           </p>
         </header>
       </div>

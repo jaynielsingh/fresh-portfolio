@@ -38,7 +38,7 @@ export default function Navbar() {
           <a href="/" class="btn btn-ghost">Home</a>
           <a href="/about" class="btn btn-ghost">About</a>
           <a href="/portfolio" class="btn btn-ghost">Portfolio</a>
-          <a href='/gallery' class="btn btn-ghost">Gallery</a>
+          <a href="/gallery" class="btn btn-ghost">Gallery</a>
           <a href="/contact" class="btn btn-primary">Contact</a>
         </div>
       </div>
