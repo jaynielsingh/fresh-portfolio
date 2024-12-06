@@ -11,6 +11,7 @@ import * as $gallery from "./routes/gallery.tsx";
 import * as $greet_name_ from "./routes/greet/[name].tsx";
 import * as $index from "./routes/index.tsx";
 import * as $portfolio from "./routes/portfolio.tsx";
+import * as $Blog from "./islands/Blog.tsx";
 import * as $ContactMe from "./islands/ContactMe.tsx";
 import * as $Counter from "./islands/Counter.tsx";
 import * as $Footer from "./islands/Footer.tsx";
@@ -33,6 +34,7 @@ const manifest = {
     "./routes/portfolio.tsx": $portfolio,
   },
   islands: {
+    "./islands/Blog.tsx": $Blog,
     "./islands/ContactMe.tsx": $ContactMe,
     "./islands/Counter.tsx": $Counter,
     "./islands/Footer.tsx": $Footer,

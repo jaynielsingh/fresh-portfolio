@@ -2,42 +2,42 @@ const files = [
   {
     id: 1,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXX9if1IEsBufkz15cUV7AKiq3ESC9LlYmW8eT",
+      "https://utfs.io/f/nm6dxkCwAcsX5W2JWgMnQ7G8FvZb5SXImHUfogM1n3jOdPxW",
   },
   {
     id: 2,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsX52pJ6InQ7G8FvZb5SXImHUfogM1n3jOdPxWr",
+      "https://utfs.io/f/nm6dxkCwAcsXOHVj6p5JCYOD4lnokAxmhQuZzsb8iSG5JyTc",
   },
   {
     id: 3,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXJEvkQNfUdbDXoWliu83TLE7Ng0v1KtPfQkFZ",
+      "https://utfs.io/f/nm6dxkCwAcsXVP5iYr2mMEgY37HTczbhuCGPNy5OIxaFXZd1",
   },
   {
     id: 4,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXXeOO0kaEsBufkz15cUV7AKiq3ESC9LlYmW8e",
+      "https://utfs.io/f/nm6dxkCwAcsXHbPGKMUU8owadKmBNTpq0lh1YD3Wg9zjMG5V",
   },
   {
     id: 5,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXDK1I113YkErVxICUnMgF5AR2Bc06vyj9ZSN4",
+      "https://utfs.io/f/nm6dxkCwAcsXVYZ0At2mMEgY37HTczbhuCGPNy5OIxaFXZd1",
   },
   {
     id: 6,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXR5hxctV2dXFvIeTptfbaHs3Wzurig1DKo4cM",
+      "https://utfs.io/f/nm6dxkCwAcsXIcdY0NajG53p0hxzltNVkmQyMuXKYe7sw2Ho",
   },
   {
     id: 7,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXQ6HgxYwlOsd54QkVJxHKwt8LmuqcZ7FW9XbT",
+      "https://utfs.io/f/nm6dxkCwAcsXvKN6emuoapQhjfn4YLru8q2dw1yceKWA5XsI",
   },
   {
     id: 8,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXWHDT3aq8ABbO3RxEq1hndJ9sGfZQaF5MUvDt",
+      "https://utfs.io/f/nm6dxkCwAcsXwUjxnqkD9I2stCnObE1kyu40lHpAZ5GaUT7Y",
   },
 ];
 
@@ -67,6 +67,7 @@ export default function Gallery() {
           <li key={file.id} className="relative">
             <div className="aspect-w-4 aspect-h-3 overflow-hidden  rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
               <img
+                loading="lazy"
                 alt=""
                 src={file.source}
                 className=" pointer-events-none w-full h-full object-contain group-hover:opacity-75"

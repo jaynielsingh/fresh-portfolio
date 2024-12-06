@@ -1,5 +1,6 @@
 import AboutMe from "../components/AboutMe.tsx";
 import Skill from "../components/skills.tsx";
+import Blog from "../islands/Blog.tsx";
 import Footer from "../islands/Footer.tsx";
 import Gallery from "../islands/Gallery.tsx";
 import Hero from "../islands/Hero.tsx";
@@ -14,6 +15,7 @@ export default function Home() {
       <AboutMe />
       <Skill />
       <Portfolio />
+      {/* <Blog/> */}
       <Gallery />
       <Footer />
     </div>
