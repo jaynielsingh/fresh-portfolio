@@ -67,7 +67,6 @@ export default function Gallery() {
           <li key={file.id} className="relative">
             <div className="aspect-w-4 aspect-h-3 overflow-hidden  rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
               <img
-                loading="lazy"
                 alt=""
                 src={file.source}
                 className=" pointer-events-none w-full h-full object-contain group-hover:opacity-75"
