@@ -4,7 +4,7 @@ export default function Hero() {
       className="hero min-h-screen "
       style={{
         backgroundImage:
-          "url(https://utfs.io/f/nm6dxkCwAcsXEPQ3Hy8xCeuNfvVqoGZDch46pHgs9dBMFny0)",
+          "url(https://utfs.io/f/nm6dxkCwAcsXVouFsUB2mMEgY37HTczbhuCGPNy5OIxaFXZd)",
       }}
     >
       <div className="hero-overlay bg-opacity-30"></div>
