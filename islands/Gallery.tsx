@@ -2,43 +2,43 @@ const files = [
   {
     id: 1,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsX5W2JWgMnQ7G8FvZb5SXImHUfogM1n3jOdPxW",
+      "https://utfs.io/f/nm6dxkCwAcsXZHzIB89nCquXrpOsJE3hkDWL69Poli4fjGgy",
   },
   {
     id: 2,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXOHVj6p5JCYOD4lnokAxmhQuZzsb8iSG5JyTc",
+      "https://utfs.io/f/nm6dxkCwAcsXzTgeQeN1XYuwiHr54NZO0ndKhCleAGkaFxDg",
   },
-  {
-    id: 3,
-    source:
-      "https://utfs.io/f/nm6dxkCwAcsXVP5iYr2mMEgY37HTczbhuCGPNy5OIxaFXZd1",
-  },
-  {
-    id: 4,
-    source:
-      "https://utfs.io/f/nm6dxkCwAcsXHbPGKMUU8owadKmBNTpq0lh1YD3Wg9zjMG5V",
-  },
-  {
-    id: 5,
-    source:
-      "https://utfs.io/f/nm6dxkCwAcsXVYZ0At2mMEgY37HTczbhuCGPNy5OIxaFXZd1",
-  },
-  {
-    id: 6,
-    source:
-      "https://utfs.io/f/nm6dxkCwAcsXIcdY0NajG53p0hxzltNVkmQyMuXKYe7sw2Ho",
-  },
-  {
-    id: 7,
-    source:
-      "https://utfs.io/f/nm6dxkCwAcsXvKN6emuoapQhjfn4YLru8q2dw1yceKWA5XsI",
-  },
-  {
-    id: 8,
-    source:
-      "https://utfs.io/f/nm6dxkCwAcsXwUjxnqkD9I2stCnObE1kyu40lHpAZ5GaUT7Y",
-  },
+  // {
+  //   id: 3,
+  //   source:
+  //     "https://utfs.io/f/nm6dxkCwAcsXVP5iYr2mMEgY37HTczbhuCGPNy5OIxaFXZd1",
+  // },
+  // {
+  //   id: 4,
+  //   source:
+  //     "https://utfs.io/f/nm6dxkCwAcsXHbPGKMUU8owadKmBNTpq0lh1YD3Wg9zjMG5V",
+  // },
+  // {
+  //   id: 5,
+  //   source:
+  //     "https://utfs.io/f/nm6dxkCwAcsXVYZ0At2mMEgY37HTczbhuCGPNy5OIxaFXZd1",
+  // },
+  // {
+  //   id: 6,
+  //   source:
+  //     "https://utfs.io/f/nm6dxkCwAcsXIcdY0NajG53p0hxzltNVkmQyMuXKYe7sw2Ho",
+  // },
+  // {
+  //   id: 7,
+  //   source:
+  //     "https://utfs.io/f/nm6dxkCwAcsXvKN6emuoapQhjfn4YLru8q2dw1yceKWA5XsI",
+  // },
+  // {
+  //   id: 8,
+  //   source:
+  //     "https://utfs.io/f/nm6dxkCwAcsXwUjxnqkD9I2stCnObE1kyu40lHpAZ5GaUT7Y",
+  // },
 ];
 
 export default function Gallery() {
