@@ -10,7 +10,12 @@ export default function Hero() {
       <div className="hero-overlay bg-opacity-10"></div>
       <div className="hero-content text-neutral-content text-center">
         <div className="max-w-md">
-          <div data-aos="zoom-in" data-aos-delay="100">
+          <div
+            data-aos="zoom-in"
+
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="3000"
+          >
             <h1 className="mb-2 text-5xl font-bold font-serif">
               Jayniel Singh
             </h1>
@@ -31,7 +36,11 @@ export default function Hero() {
               About Me
             </a>
           </div>
-          <div data-aos='fade-down' data-aos-duration='3000' className="flex justify-center items-center">
+          <div
+            data-aos="fade-down"
+            data-aos-duration="3000"
+            className="flex justify-center items-center"
+          >
             <div className="flex justify-center items-center m-5 p-5 animate-pulse ">
               <a
                 href="https://www.github.com/jaynielsingh"
