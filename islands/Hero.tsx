@@ -7,7 +7,7 @@ export default function Hero() {
           "url(https://utfs.io/f/nm6dxkCwAcsXVouFsUB2mMEgY37HTczbhuCGPNy5OIxaFXZd)",
       }}
     >
-      <div className="hero-overlay bg-opacity-30"></div>
+      <div className="hero-overlay bg-opacity-10"></div>
       <div className="hero-content text-neutral-content text-center">
         <div className="max-w-md">
           <h1 className="mb-2 text-5xl font-bold font-serif">Jayniel Singh</h1>
