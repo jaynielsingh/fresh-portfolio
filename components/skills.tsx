@@ -19,8 +19,8 @@ export default function Skill() {
       </div>
 
       <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
-        <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+        <div  class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
@@ -37,7 +37,7 @@ export default function Skill() {
             </div>
           </div>
 
-          <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary "
@@ -54,7 +54,7 @@ export default function Skill() {
             </div>
           </div>
 
-          <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
@@ -71,7 +71,7 @@ export default function Skill() {
             </div>
           </div>
 
-          <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
@@ -88,7 +88,7 @@ export default function Skill() {
             </div>
           </div>
 
-          <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
@@ -105,7 +105,7 @@ export default function Skill() {
             </div>
           </div>
 
-          <div class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"

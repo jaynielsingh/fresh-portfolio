@@ -61,7 +61,11 @@ export default function Portfolio() {
   return (
     <div className="">
       <div className="mx-auto max-w-2xl px-4 py-24 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8">
-        <div data-aos='zoom-in-up' data-aos-delay='500' className="mx-auto max-w-3xl text-center">
+        <div
+          data-aos="zoom-in-up"
+          data-aos-delay="500"
+          className="mx-auto max-w-3xl text-center"
+        >
           <h2 className="text-3xl font-bold tracking-tight font-serif  sm:text-4xl">
             Portfolio
           </h2>
@@ -78,7 +82,9 @@ export default function Portfolio() {
         <div className="mt-16 space-y-16">
           {features.map((feature, featureIdx) => (
             <div
-            data-aos='zoom-in-up' data-aos-delay='500' data-aos-duration='3000'
+              data-aos="flip-left"
+              data-aos-easing="ease-out-cubic"
+              data-aos-duration="2000"
               key={feature.name}
               className="flex flex-col-reverse lg:grid lg:grid-cols-12 lg:items-center lg:gap-x-8"
             >
