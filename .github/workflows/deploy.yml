@@ -32,5 +32,3 @@ jobs:
           project: "jayniel"
           entrypoint: "main.ts"
           root: "."
-          
-          

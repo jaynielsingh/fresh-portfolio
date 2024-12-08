@@ -12,7 +12,6 @@ export default function Hero() {
         <div className="max-w-md">
           <div
             data-aos="zoom-in"
-
             data-aos-easing="ease-out-cubic"
             data-aos-duration="3000"
           >

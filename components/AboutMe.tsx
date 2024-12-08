@@ -2,7 +2,11 @@ export default function AboutMe() {
   return (
     <div className="relative">
       <div className="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
-        <div data-aos='zoom-in-right' data-aos-delay='300' className="px-6 pb-24 pt-10 sm:pb-32 lg:col-span-7 lg:px-0 lg:pb-48 lg:pt-40 xl:col-span-6">
+        <div
+          data-aos="zoom-in-right"
+          data-aos-delay="300"
+          className="px-6 pb-24 pt-10 sm:pb-32 lg:col-span-7 lg:px-0 lg:pb-48 lg:pt-40 xl:col-span-6"
+        >
           <div className="mx-auto max-w-lg lg:mx-0">
             <h1 className="mt-24 text-pretty text-3xl font-serif font-semibold tracking-tight sm:mt-10 sm:text-4xl">
               About Me
@@ -32,7 +36,11 @@ export default function AboutMe() {
             </p>
           </div>
         </div>
-        <div data-aos='zoom-in-left' data-aos-duration='3000' className="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
+        <div
+          data-aos="zoom-in-left"
+          data-aos-duration="3000"
+          className="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0"
+        >
           <img
             alt=""
             src="https://utfs.io/f/nm6dxkCwAcsX2dd1oJc6bkiXNV4lzRBSFAQYIaph1C9Wov6E"
