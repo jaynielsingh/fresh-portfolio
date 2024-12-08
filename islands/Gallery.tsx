@@ -44,7 +44,11 @@ const files = [
 export default function Gallery() {
   return (
     <div className="mx-auto max-w-2xl px-4 py-24 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8">
-      <div className="mx-auto max-w-3xl text-center">
+      <div
+        data-aos="zoom-in-up"
+        data-aos-delay="500"
+        className="mx-auto max-w-3xl text-center"
+      >
         <h2 className="text-3xl font-bold tracking-tight font-serif  sm:text-4xl">
           Gallery
         </h2>
@@ -64,7 +68,13 @@ export default function Gallery() {
         className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 sm:gap-x-6 lg:grid-cols-4 xl:gap-x-8"
       >
         {files.map((file) => (
-          <li key={file.id} className="relative">
+          <li
+            key={file.id}
+            data-aos="zoom-in-up"
+            data-aos-delay="500"
+            data-aos-duration="3000"
+            className="relative"
+          >
             <div className="aspect-w-4 aspect-h-3 overflow-hidden  rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
               <img
                 alt=""
