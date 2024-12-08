@@ -2,43 +2,43 @@ const files = [
   {
     id: 1,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXZHzIB89nCquXrpOsJE3hkDWL69Poli4fjGgy",
+      "https://utfs.io/f/nm6dxkCwAcsXfKbI3oHujyi96LUO1MeB05Tmpt4NgkzCGFAr",
   },
   {
     id: 2,
     source:
-      "https://utfs.io/f/nm6dxkCwAcsXzTgeQeN1XYuwiHr54NZO0ndKhCleAGkaFxDg",
+      "https://utfs.io/f/nm6dxkCwAcsXCX0iHnWDFhVZn8x6msev9wKqTH1fcktQSY5O",
   },
-  // {
-  //   id: 3,
-  //   source:
-  //     "https://utfs.io/f/nm6dxkCwAcsXVP5iYr2mMEgY37HTczbhuCGPNy5OIxaFXZd1",
-  // },
-  // {
-  //   id: 4,
-  //   source:
-  //     "https://utfs.io/f/nm6dxkCwAcsXHbPGKMUU8owadKmBNTpq0lh1YD3Wg9zjMG5V",
-  // },
-  // {
-  //   id: 5,
-  //   source:
-  //     "https://utfs.io/f/nm6dxkCwAcsXVYZ0At2mMEgY37HTczbhuCGPNy5OIxaFXZd1",
-  // },
-  // {
-  //   id: 6,
-  //   source:
-  //     "https://utfs.io/f/nm6dxkCwAcsXIcdY0NajG53p0hxzltNVkmQyMuXKYe7sw2Ho",
-  // },
-  // {
-  //   id: 7,
-  //   source:
-  //     "https://utfs.io/f/nm6dxkCwAcsXvKN6emuoapQhjfn4YLru8q2dw1yceKWA5XsI",
-  // },
-  // {
-  //   id: 8,
-  //   source:
-  //     "https://utfs.io/f/nm6dxkCwAcsXwUjxnqkD9I2stCnObE1kyu40lHpAZ5GaUT7Y",
-  // },
+  {
+    id: 3,
+    source:
+      "https://utfs.io/f/nm6dxkCwAcsXQnI3DWwlOsd54QkVJxHKwt8LmuqcZ7FW9XbT",
+  },
+  {
+    id: 4,
+    source:
+      "https://utfs.io/f/nm6dxkCwAcsXZIeZUnw9nCquXrpOsJE3hkDWL69Poli4fjGg",
+  },
+  {
+    id: 5,
+    source:
+      "https://utfs.io/f/nm6dxkCwAcsXHh8nBGUU8owadKmBNTpq0lh1YD3Wg9zjMG5V",
+  },
+  {
+    id: 6,
+    source:
+      "https://utfs.io/f/nm6dxkCwAcsXIdwtwpajG53p0hxzltNVkmQyMuXKYe7sw2Ho",
+  },
+  {
+    id: 7,
+    source:
+      "https://utfs.io/f/nm6dxkCwAcsXKX1OHfQIDhLQxnsVBgXtkjGF7Z1bAaPeuJCH",
+  },
+  {
+    id: 8,
+    source:
+      "https://utfs.io/f/nm6dxkCwAcsXA4AISvyyFU58hSotLdNiMulmxcpO0fW23evz",
+  },
 ];
 
 export default function Gallery() {
