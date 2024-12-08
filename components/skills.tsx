@@ -1,7 +1,12 @@
 export default function Skill() {
   return (
     <div class=" py-20 lg:py-[120px] overflow-hidden relative z-10">
-      <div data-aos="zoom-in-up" data-aos-delay="500"  class="container xl:max-w-6xl mx-auto px-4">
+      <div
+        data-aos="zoom-in-up"
+        data-aos-delay="500"
+        data-aos-duration="3000"
+        class="container xl:max-w-6xl mx-auto px-4"
+      >
         <header class="text-center mx-auto mb-8 lg:px-20">
           <h2 class="text-4xl  antialiased font-serif leading-normal font-bold ">
             Skills
@@ -19,8 +24,13 @@ export default function Skill() {
       </div>
 
       <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
-        <div  class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="500"
+            data-aos-duration="3000"
+            class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
+          >
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
@@ -37,7 +47,12 @@ export default function Skill() {
             </div>
           </div>
 
-          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="500"
+            data-aos-duration="3000"
+            class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
+          >
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary "
@@ -54,7 +69,12 @@ export default function Skill() {
             </div>
           </div>
 
-          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="500"
+            data-aos-duration="3000"
+            class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
+          >
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
@@ -71,7 +91,12 @@ export default function Skill() {
             </div>
           </div>
 
-          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="500"
+            data-aos-duration="3000"
+            class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
+          >
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
@@ -88,7 +113,12 @@ export default function Skill() {
             </div>
           </div>
 
-          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="500"
+            data-aos-duration="3000"
+            class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
+          >
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
@@ -105,7 +135,12 @@ export default function Skill() {
             </div>
           </div>
 
-          <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="3000" class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="500"
+            data-aos-duration="3000"
+            class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
+          >
             <div class="mb-8">
               <div
                 class="radial-progress bg-secondary"
