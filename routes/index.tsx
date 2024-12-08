@@ -9,7 +9,7 @@ import Portfolio from "../islands/Portfolio.tsx";
 
 export default function Home() {
   return (
-    <div className="m-2">
+    <div className="m-1">
       <Navbar />
       <Hero />
       <AboutMe />
