@@ -141,7 +141,7 @@ export default function Portfolio() {
       <div className="flex justify-center item-center">
         <button
           href={"https://www.github.com"}
-          className="btn bg-secondary  animate-pulse  hover:bg-accent hover:text-white mb-16"
+          className="btn  animate-pulse  hover:bg-accent hover:text-white mb-16"
         >
           View My GitHub
         </button>
