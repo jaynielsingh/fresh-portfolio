@@ -18,7 +18,7 @@ export default function Home() {
       <Portfolio />
       {/* <Blog/> */}
       <Gallery />
-      <ContactForm/>
+      <ContactForm/> 
       <Footer />
     </div>
   );

@@ -4,12 +4,12 @@ export default function Hero() {
       className="hero min-h-screen "
       style={{
         backgroundImage:
-          "url(https://utfs.io/f/nm6dxkCwAcsXVouFsUB2mMEgY37HTczbhuCGPNy5OIxaFXZd)",
+          "url(https://hllu60mckv.ufs.sh/f/nm6dxkCwAcsXXehiiO6EsBufkz15cUV7AKiq3ESC9LlYmW8e)",
       }}
     >
-      <div className="hero-overlay bg-opacity-10"></div>
+      <div className="hero-overlay bg-opacity-30"></div>
       <div className="hero-content text-neutral-content text-center">
-        <div className="max-w-md">
+        <div className="max-w-md mt-52">
             <h1 className="mb-2 text-5xl font-bold font-serif">
               Jayniel Singh
             </h1>
@@ -24,13 +24,13 @@ export default function Hero() {
           >
             <a
               href="/portfolio"
-              className="btn bg-secondary  mx-3 animate-bounce  hover:bg-accent hover:text-white capitalize"
+              className="btn mx-3 animate-bounce  hover:bg-accent hover:text-white capitalize"
             >
               View my portfolio
             </a>
             <a
               href="/about"
-              className="btn bg-secondary  animate-pulse hover:bg-accent hover:text-white capitalize"
+              className="btn animate-pulse hover:bg-accent hover:text-white capitalize"
             >
               About Me
             </a>

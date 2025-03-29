@@ -33,7 +33,7 @@ export default function Skill() {
           >
             <div class="mb-8">
               <div
-                class="radial-progress bg-secondary"
+                class="radial-progress "
                 style="--size:7rem; --value: 75"
               >
                 75%
@@ -55,7 +55,7 @@ export default function Skill() {
           >
             <div class="mb-8">
               <div
-                class="radial-progress bg-secondary "
+                class="radial-progress  "
                 style="--size:7rem; --value: 75"
               >
                 75%
@@ -77,7 +77,7 @@ export default function Skill() {
           >
             <div class="mb-8">
               <div
-                class="radial-progress bg-secondary"
+                class="radial-progress"
                 style="--size:7rem; --value: 80"
               >
                 80%
@@ -99,7 +99,7 @@ export default function Skill() {
           >
             <div class="mb-8">
               <div
-                class="radial-progress bg-secondary"
+                class="radial-progress"
                 style="--size:7rem; --value: 80"
               >
                 80%
@@ -121,7 +121,7 @@ export default function Skill() {
           >
             <div class="mb-8">
               <div
-                class="radial-progress bg-secondary"
+                class="radial-progress"
                 style="--size:7rem; --value: 70"
               >
                 70%
@@ -143,7 +143,7 @@ export default function Skill() {
           >
             <div class="mb-8">
               <div
-                class="radial-progress bg-secondary"
+                class="radial-progress"
                 style="--size:7rem; --value: 85"
               >
                 85%
