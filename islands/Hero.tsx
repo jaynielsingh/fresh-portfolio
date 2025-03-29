@@ -36,7 +36,7 @@ export default function Hero() {
             </a>
           </div>
           <div
-            data-aos="fade-down"
+            data-aos="fade-up"
             data-aos-duration="3000"
             className="flex justify-center items-center"
           >

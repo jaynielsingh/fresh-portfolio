@@ -28,7 +28,7 @@ export default function Skill() {
           <div
             data-aos="fade-up"
             data-aos-delay="500"
-            data-aos-duration="3000"
+            data-aos-duration="1000"
             class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
           >
             <div class="mb-8">
@@ -50,7 +50,7 @@ export default function Skill() {
           <div
             data-aos="fade-up"
             data-aos-delay="500"
-            data-aos-duration="3000"
+            data-aos-duration="1000"
             class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
           >
             <div class="mb-8">
@@ -72,7 +72,7 @@ export default function Skill() {
           <div
             data-aos="fade-up"
             data-aos-delay="500"
-            data-aos-duration="3000"
+            data-aos-duration="1000"
             class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
           >
             <div class="mb-8">
@@ -94,7 +94,7 @@ export default function Skill() {
           <div
             data-aos="fade-up"
             data-aos-delay="500"
-            data-aos-duration="3000"
+            data-aos-duration="1000"
             class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
           >
             <div class="mb-8">
@@ -116,7 +116,7 @@ export default function Skill() {
           <div
             data-aos="fade-up"
             data-aos-delay="500"
-            data-aos-duration="3000"
+            data-aos-duration="1000"
             class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
           >
             <div class="mb-8">
@@ -138,7 +138,7 @@ export default function Skill() {
           <div
             data-aos="fade-up"
             data-aos-delay="500"
-            data-aos-duration="3000"
+            data-aos-duration="1000"
             class="w-full  rounded-lg shadow-lg p-12 flex flex-col justify-center items-center"
           >
             <div class="mb-8">
