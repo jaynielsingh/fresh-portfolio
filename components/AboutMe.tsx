@@ -16,8 +16,7 @@ export default function AboutMe() {
             </p>
             <p className="mt-8 text-pretty  font-medium  ">
               Hi, I’m Jayniel, a self-taught web developer who discovered a
-              passion for coding during the COVID lockdown. After being laid
-              off, I took the opportunity to dive into web development,
+              passion for coding during the COVID lock down. I took the opportunity to dive into web development,
               transforming a challenging time into a new and exciting career.
             </p>
             <p className="mt-8 text-pretty  font-medium ">
