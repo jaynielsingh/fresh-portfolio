@@ -38,7 +38,7 @@ export default function AboutMe() {
         </div>
         <div
           data-aos="zoom-in-left"
-          data-aos-duration="3000"
+          data-aos-duration="1000"
           className="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0"
         >
           <img

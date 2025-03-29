@@ -2,9 +2,9 @@ export default function Skill() {
   return (
     <div class=" py-20 lg:py-[120px] overflow-hidden relative z-10">
       <div
-        data-aos="zoom-in-up"
-        data-aos-delay="500"
-        data-aos-duration="3000"
+        // data-aos="zoom-in-up"
+        // data-aos-delay="500"
+        // data-aos-duration="2000"
         class="container xl:max-w-6xl mx-auto px-4"
       >
         <header class="text-center mx-auto mb-8 lg:px-20">

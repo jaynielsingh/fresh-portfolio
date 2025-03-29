@@ -22,8 +22,11 @@
   ],
   "imports": {
     "$fresh/": "https://deno.land/x/fresh@1.7.3/",
+    "@heroicons/react": "npm:@heroicons/react@^2.2.0",
+    "@sendgrid/mail": "npm:@sendgrid/mail@^8.1.4",
     "aos": "npm:aos@^2.3.4",
     "daisyui": "npm:daisyui@^4.12.14",
+    "heroicons": "npm:heroicons@^2.2.0",
     "lucide-preact": "npm:lucide-preact@^0.462.0",
     "preact": "https://esm.sh/preact@10.22.0",
     "preact/": "https://esm.sh/preact@10.22.0/",

@@ -10,11 +10,6 @@ export default function Hero() {
       <div className="hero-overlay bg-opacity-10"></div>
       <div className="hero-content text-neutral-content text-center">
         <div className="max-w-md">
-          <div
-            data-aos="zoom-in"
-            data-aos-easing="ease-out-cubic"
-            data-aos-duration="3000"
-          >
             <h1 className="mb-2 text-5xl font-bold font-serif">
               Jayniel Singh
             </h1>
@@ -22,6 +17,11 @@ export default function Hero() {
               Hey im jayniel, a self taught web developer and a amateur
               photographer with an interesting in developing web applications.
             </p>
+          <div
+            data-aos="zoom-in"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="3000"
+          >
             <a
               href="/portfolio"
               className="btn bg-secondary  mx-3 animate-bounce  hover:bg-accent hover:text-white capitalize"

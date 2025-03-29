@@ -1,4 +1,5 @@
 import AboutMe from "../components/AboutMe.tsx";
+import ContactForm from "../components/ContactForm.tsx";
 import Skill from "../components/skills.tsx";
 import Blog from "../islands/Blog.tsx";
 import Footer from "../islands/Footer.tsx";
@@ -17,6 +18,7 @@ export default function Home() {
       <Portfolio />
       {/* <Blog/> */}
       <Gallery />
+      <ContactForm/>
       <Footer />
     </div>
   );
