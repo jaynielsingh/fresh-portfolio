@@ -63,7 +63,7 @@ export default function Hero() {
               </a>
               <a
                 className="mx-5"
-                href="https://www.linkedin.com/in/jaynielsingh/"
+                href="https://www.linkedin.com/in/jayniel-singh/"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
