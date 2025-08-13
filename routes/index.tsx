@@ -1,12 +1,12 @@
 import AboutMe from "../components/AboutMe.tsx";
 import ContactForm from "../components/ContactForm.tsx";
-import Skill from "../components/skills.tsx";
-import Blog from "../islands/Blog.tsx";
-import Footer from "../islands/Footer.tsx";
-import Gallery from "../islands/Gallery.tsx";
-import Hero from "../islands/Hero.tsx";
+import Skill from "../components/Skills.tsx";
+import Blog from "../components/Blog.tsx";
+import Footer from "../components/Footer.tsx";
+import Gallery from "../components/Gallery.tsx";
+import Hero from "../components/Hero.tsx";
 import Navbar from "../islands/Navbar.tsx";
-import Portfolio from "../islands/Portfolio.tsx";
+import Portfolio from "../components/Portfolio.tsx";
 
 export default function Home() {
   return (

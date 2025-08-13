@@ -1,5 +1,5 @@
-import ContactMe from "../islands/ContactMe.tsx";
-import Footer from "../islands/Footer.tsx";
+import ContactMe from "../components/ContactMe.tsx";
+import Footer from "../components/Footer.tsx";
 import Navbar from "../islands/Navbar.tsx";
 
 export default function ContactPage() {

@@ -1,4 +1,4 @@
-import ContactForm from "../components/ContactForm.tsx";
+import ContactForm from "./ContactForm.tsx";
 
 export default function ContactMe() {
   return (

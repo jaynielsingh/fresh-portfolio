@@ -11,14 +11,8 @@ import * as $gallery from "./routes/gallery.tsx";
 import * as $greet_name_ from "./routes/greet/[name].tsx";
 import * as $index from "./routes/index.tsx";
 import * as $portfolio from "./routes/portfolio.tsx";
-import * as $Blog from "./islands/Blog.tsx";
-import * as $ContactMe from "./islands/ContactMe.tsx";
 import * as $Counter from "./islands/Counter.tsx";
-import * as $Footer from "./islands/Footer.tsx";
-import * as $Gallery from "./islands/Gallery.tsx";
-import * as $Hero from "./islands/Hero.tsx";
 import * as $Navbar from "./islands/Navbar.tsx";
-import * as $Portfolio from "./islands/Portfolio.tsx";
 import type { Manifest } from "$fresh/server.ts";
 
 const manifest = {
@@ -34,14 +28,8 @@ const manifest = {
     "./routes/portfolio.tsx": $portfolio,
   },
   islands: {
-    "./islands/Blog.tsx": $Blog,
-    "./islands/ContactMe.tsx": $ContactMe,
     "./islands/Counter.tsx": $Counter,
-    "./islands/Footer.tsx": $Footer,
-    "./islands/Gallery.tsx": $Gallery,
-    "./islands/Hero.tsx": $Hero,
     "./islands/Navbar.tsx": $Navbar,
-    "./islands/Portfolio.tsx": $Portfolio,
   },
   baseUrl: import.meta.url,
 } satisfies Manifest;

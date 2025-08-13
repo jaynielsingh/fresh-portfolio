@@ -1,5 +1,5 @@
-import Footer from "../islands/Footer.tsx";
-import Gallery from "../islands/Gallery.tsx";
+import Footer from "../components/Footer.tsx";
+import Gallery from "../components/Gallery.tsx";
 import Navbar from "../islands/Navbar.tsx";
 
 export default function GalleryPage() {

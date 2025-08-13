@@ -1,6 +1,6 @@
 import Navbar from "../islands/Navbar.tsx";
-import Portfolio from "../islands/Portfolio.tsx";
-import Footer from "../islands/Footer.tsx";
+import Portfolio from "../components/Portfolio.tsx";
+import Footer from "../components/Footer.tsx";
 
 export default function PortfolioPage() {
   return (
