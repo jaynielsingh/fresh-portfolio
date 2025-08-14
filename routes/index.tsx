@@ -1,6 +1,6 @@
 import AboutMe from "../components/AboutMe.tsx";
 import ContactForm from "../components/ContactForm.tsx";
-import Skills from "../components/Skills.tsx";
+// import Skills from "../components/Skills.tsx";
 import Blog from "../components/Blog.tsx";
 import Footer from "../components/Footer.tsx";
 import Gallery from "../components/Gallery.tsx";
@@ -14,7 +14,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <AboutMe />
-      <Skills />
+      {/* <Skills /> */}
       <Portfolio />
       <Blog />
       <Gallery />
