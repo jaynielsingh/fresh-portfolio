@@ -6,7 +6,7 @@ import Gallery from "../components/Gallery.tsx";
 import Hero from "../components/Hero.tsx";
 import Navbar from "../islands/Navbar.tsx";
 import Portfolio from "../components/Portfolio.tsx";
-import Skills from "../components/Skills.tsx";
+import Skills from "../components/MySkills.tsx";
 
 export default function Home() {
   return (
