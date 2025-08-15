@@ -1,4 +1,4 @@
-export default function Skill() {
+export default function Skills() {
   return (
     <div class=" py-20 lg:py-[120px] overflow-hidden relative z-10">
       <div // data-aos="zoom-in-up"

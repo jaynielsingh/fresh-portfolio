@@ -1,12 +1,12 @@
 import AboutMe from "../components/AboutMe.tsx";
 import ContactForm from "../components/ContactForm.tsx";
-// import Skills from "../components/Skills.tsx";
 import Blog from "../components/Blog.tsx";
 import Footer from "../components/Footer.tsx";
 import Gallery from "../components/Gallery.tsx";
 import Hero from "../components/Hero.tsx";
 import Navbar from "../islands/Navbar.tsx";
 import Portfolio from "../components/Portfolio.tsx";
+import Skills from "../components/Skills.tsx";
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <AboutMe />
-      {/* <Skills /> */}
+      <Skills />
       <Portfolio />
       <Blog />
       <Gallery />
