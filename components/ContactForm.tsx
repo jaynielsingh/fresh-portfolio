@@ -51,7 +51,7 @@ const ContactForm = () => {
                           href="mailto:suppoprt@ignisbyte.com"
                           className="font-semibold text-accent"
                         >
-                          suppoprt@ignisbyte.com
+                          support@ignisbyte.com
                         </a>
                       </dd>
                     </div>
