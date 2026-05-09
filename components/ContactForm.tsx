@@ -38,7 +38,7 @@ const ContactForm = () => {
                       </a>
                     </div>
                   </dl>
-                </div>
+                {/* </div>
                 <div className="rounded-2xl bg-gray-50 p-10">
                   <h3 className="text-base/7 font-semibold text-gray-900">
                     Ignis Byte - Web Design Agency
@@ -62,7 +62,7 @@ const ContactForm = () => {
                       </a>
                     </div>
                   </dl>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
